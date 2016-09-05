@@ -1,0 +1,6 @@
+1 To'lov muddati 20 sandan keyinga qolmasin
+	agar 20 sandan oldin bo'lsa muddat shu sanaga qo'yilsin
+	aks holda 20 sanaga qo'yilsin
+
+2 shartnoma shablonini atyyorlash
+3 hisobotlarni
